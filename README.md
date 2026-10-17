@@ -70,9 +70,6 @@ This repository contains two projects:
 
 
 
-Open [http://localhost:3000]([http://localhost:/](http://localhost:5173/)) 
----
-
 ## Folder Structure
 
 ### React project (Vite)
@@ -126,7 +123,7 @@ cd react-practical
 npm install
 npm run dev
 ```
-Open http://localhost:5173
+Open [http://localhost:5173](http://localhost:5173/)
 
 ### Run the Next.js project
 ```bash
